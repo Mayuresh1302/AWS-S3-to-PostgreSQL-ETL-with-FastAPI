@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+boto3
+sqlalchemy
+io
+
